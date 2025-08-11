@@ -1,4 +1,4 @@
-# CodeQL variant analysis action
+# CodeQL variant analysis action!
 
 This action is used internally by GitHub's multi-repository variant analysis. It is not intended to be used directly.
 
